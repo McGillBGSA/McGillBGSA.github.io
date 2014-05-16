@@ -23,7 +23,6 @@ def get_post_filename(title, date, ext='.md'):
 def get_post_body(html):
     # not great, but will do for now
     body = html2text.html2text(html).encode('utf-8')
-    body = body.replace('\n', '\n\n')
     return body
 
 def get_post_date(date):
