@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+#What do we do?
+The Biology Graduate Students Association is the students group for all graduate students in Biology. We organize social events such as wine and cheeses and graduate student retreats, as well as educational and research events such as symposia and workshops.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+#Who is a part of BGSA? 
+All graduate students within Biology are members of the BGSA. To meet your fellow students and find out more about what they are doing, check the Graduate Contact List.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+#Join us at our BGSA events
+Just show up to our departmental socials at Thomson House. Check out our What's Happening page!
