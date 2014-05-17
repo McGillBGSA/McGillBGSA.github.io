@@ -3,7 +3,8 @@ title: McGill Biology Graduate Association
 email: hello@mcgillbgsa.com
 description: "Welcome to the McGill BGSA page! Here, you can find information about who we are, upcoming events, and photos of our past events as well as a compilation of handy dandy links we've found very useful over the years. "
 baseurl: ""
-url: "http://mcgillbgsa.com"
+url: "http://mcgillbgsa.github.io"
+
 
 # Build settings
 markdown: kramdown
