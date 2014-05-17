@@ -1,7 +1,7 @@
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
-      <a href="../" class="navbar-brand">BGSA</a>
+      <a href="{{ site.url }}" class="navbar-brand">BGSA</a>
       <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -11,22 +11,22 @@
     <div class="navbar-collapse collapse" id="navbar-main">
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a href="#">About</a>
+          <a href="{{ "/about/" | prepend: site.baseurl }}">About</a>
         </li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="whats-up">What's Happening <span class="caret"></span></a>
           <ul class="dropdown-menu" aria-labelledby="download">
-            <li><a href="#">Meetings</a></li>
+            <li><a href="{{ "/meetings/" | prepend: site.baseurl }}">Meetings</a></li>
             <li><a href="#">Calendar</a></li>
-            <li><a href="#">Discussion Groups</a></li>
-            <li><a href="#">McGill Biology Seminars</a></li>
+            <li><a href="{{ "/discussion/" | prepend: site.baseurl }}">Discussion Groups</a></li>
+            <li><a href="http://biology.mcgill.ca/sem_events.html">McGill Biology Seminars</a></li>
           </ul>
         </li>
         <li>
-          <a href="#">Grants</a>
+          <a href="{{ "/grants/" | prepend: site.baseurl }}">Grants</a>
         </li>
         <li>
-          <a href="#">Tips and Links</a>
+          <a href="{{ "/helpful-links/" | prepend: site.baseurl }}">Tips and Links</a>
         </li>
         <li>
           <a href="#">Photos</a>
