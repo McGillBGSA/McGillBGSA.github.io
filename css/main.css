@@ -95,6 +95,11 @@ h2.post-title a{
     list-style: none;
 }
 
+.sidebar-module.about p {
+    font-size: 15px;
+    line-height: 1.2;
+}
+
 .sidebar-module.archives {
     padding: 0 19px;
 }
