@@ -2,20 +2,44 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {% if post.show_excerpt %}<p><small>{{ post.excerpt }}</small></p>{% endif %}
-      </li>
+<div class="row">
+  <div class="col-sm-8 blog-main">
+    {% for post in paginator.posts %}
+      <div class="blog-post">
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2 class="post-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <div class="blog-post-content">
+        {{ post.content }}
+      </div>
+      </div><!-- /.blog-post -->
     {% endfor %}
-  </ul>
+    <!-- Pagination links -->
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination btn-group btn-group-justified">
+      {% if paginator.previous_page %}
+        <a class="btn btn-primary" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+      {% else %}
+        <span class="btn btn-primary disabled">&laquo; Prev</span>
+      {% endif %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <span class="btn btn-default active">{{ page }}</span>
+        {% elsif page == 1 %}
+          <a class="btn btn-default" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        {% else %}
+          <a class="btn btn-default" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
 
-</div>
+      {% if paginator.next_page %}
+        <a class="btn btn-primary" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+      {% else %}
+        <span>Next &raquo;</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div><!-- /.blog-main -->
+  {% include sidebar.html %}
+</div><!-- /.row -->
