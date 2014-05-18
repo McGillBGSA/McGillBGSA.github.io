@@ -154,7 +154,8 @@ h2.post-title a{
   color: #828282;
 }
 .github-icon-svg,
-.twitter-icon-svg {
+.twitter-icon-svg,
+.facebook-icon-svg {
   display: inline-block;
   width: 16px;
   height: 16px;
