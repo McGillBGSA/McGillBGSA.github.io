@@ -1,0 +1,24 @@
+<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+      <div class="well sidebar-module">
+        <h4>About</h4>
+        <p>Welcome to the McGill BGSA page! Here, you can find information about who we are, upcoming events, and photos of our past events as well as a compilation of handy dandy links we've found very useful over the years. </p>
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      </div>
+      
+      <div class="sidebar-module archives" id="accordion">
+        <h4>Archives</h4>
+        <ul>
+        {% for post in site.posts %}
+
+            {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+            {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+                {% if month != nmonth %}
+                    {% if forloop.index != 1 %}</ul>{% endif %}
+                    <h3 class="archive month">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#{{ post.date | date: '%B-%Y' }}">{{ post.date | date: '%B %Y' }}</a>
+                    </h3><ul id="{{ post.date | date: '%B-%Y' }}" class="collapse">
+                {% endif %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </div>
+  </div><!-- /.blog-sidebar -->
