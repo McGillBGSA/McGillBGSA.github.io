@@ -12,13 +12,12 @@ Here is a reminder about the Adirondacks trip in a few weeks (look below for the
 
 Several people have signed up already but there are still about 10 stops left so SIGN UP SOON if you are still interested in coming along.
 
- This email is also a reminder for people to bring in there deposits, we would like to have them by this Friday. 
+This email is also a reminder for people to bring in their deposits, we would like to have them by this Friday. 
 
- So please bring a $20 Deposit to Mary-Rose (Bellini 266), Me (Stuart N5/5), or Claudia (N4/6) to reserve your spot. 
+So please bring a $20 Deposit to Mary-Rose (Bellini 266), Me (Stuart N5/5), or Claudia (N4/6) to reserve your spot. 
 
 Emails sent after today will include only the people who have signed up to reduce listserve spam. 
 
-Thank you for your time, and sign up! Scott Check your email for the link to sign up!
-
+Thank you for your time, and sign up! 
 
     
