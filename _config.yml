@@ -5,6 +5,8 @@ description: "Welcome to the McGill BGSA page! Here, you can find information ab
 baseurl: ""
 url: "http://mcgillbgsa.github.io"
 
+paginate: 3
+paginate_path: ":num"
 
 # Build settings
 markdown: kramdown
