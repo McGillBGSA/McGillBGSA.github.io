@@ -18,7 +18,11 @@ layout: default
     {% if paginator.total_pages > 1 %}
     <div class="pagination btn-group btn-group-justified">
       {% if paginator.previous_page %}
-        <a class="btn btn-primary" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        {% if paginator.previous_page == 1 %}
+        <a class="btn btn-primary" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        {% else %}
+        <a class="btn btn-primary" href="/{{ paginator.previous_page }}">&laquo; Prev</a>
+        {% endif %}
       {% else %}
         <span class="btn btn-primary disabled">&laquo; Prev</span>
       {% endif %}
@@ -29,12 +33,12 @@ layout: default
         {% elsif page == 1 %}
           <a class="btn btn-default" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
         {% else %}
-          <a class="btn btn-default" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+          <a class="btn btn-default" href="/{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
       {% endfor %}
 
       {% if paginator.next_page %}
-        <a class="btn btn-primary" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+        <a class="btn btn-primary" href="/{{ paginator.next_page }}">Next &raquo;</a>
       {% else %}
         <span>Next &raquo;</span>
       {% endif %}
