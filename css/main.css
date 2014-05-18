@@ -1,10 +1,15 @@
-.navbar {
-  border-bottom: 3px solid #2C3E50;
-  padding: 0 200px;
+.navbar > .container {
+    width:auto;
+    max-width: 740px;
 }
-
-.navbar > .container {width:auto;}
 
 .page-content {
   margin-top: 60px;
 }
+
+/* Page-specific Styling */
+/*************************/
+
+#contact th, td {
+    width: 500px;
+} 
