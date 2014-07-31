@@ -17,6 +17,7 @@ Website Administrator |  Kiyoko Gotanda | June 1, 2014 | kiyoko(dot)gotanda{at}m
 BGSA ListServ Administrator |  Corey Chivers | June 1, 2014 | corey(dot)chivers{at}mail(dot)mcgill(dot)ca
 
 
+
 Councillor | End Date | Email 
 ----|----|----
 Sami Chaaban | June 1, 2014 | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
