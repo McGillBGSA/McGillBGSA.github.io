@@ -1,6 +1,6 @@
 Hey BGSA!
 
-Without softball this summer there has been a lack of BGSA gatherings. Therefore, we would like to invite you all to Thomson House next **Wednesday August 6** for some free nachos and some limited free drinks! Here are the details:
+Without softball this summer there has been a lack of BGSA gatherings. Therefore, we would like to invite you all to **Thomson House** next **Wednesday August 6** for some free nachos and some limited free drinks! Here are the details:
 
 * What: A biologist gathering
 * When: Wednesday, August 6 from 5:00-7:00PM
