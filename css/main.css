@@ -167,6 +167,7 @@ h2.post-title a{
 /*************************/
 
 .post-content img {
+  margin:10px;
   width:100%;
   padding:20px;
   border:20px solid #eee;
