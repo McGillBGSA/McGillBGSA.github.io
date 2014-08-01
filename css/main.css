@@ -163,6 +163,15 @@ h2.post-title a{
   top: 3px;
 }
 
+/* Images */
+/*************************/
+
+.post-content img {
+  width:100%;
+  padding:20px;
+  border:20px solid #eee;
+}
+
 /* Page-specific Styling */
 /*************************/
 
