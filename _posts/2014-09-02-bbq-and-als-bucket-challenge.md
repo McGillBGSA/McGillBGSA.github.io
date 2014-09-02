@@ -18,12 +18,12 @@ ALSO, the Physics Department has challenged the Biology department to the ALS Ic
 
 Please bring your own bucket, and ice if you can We will have the hose hooked up to fill buckets with water and we will supply some ice. We will start filling buckets around 1:00PM! Alternatively, you can show up with your bucket ready to go at 1:30!
 
-Find out more about ALS and donate 10$ to the ALS Association: http://www.alsa.org/fight-als/ice-bucket-challenge.html
+Find out more about ALS and donate 10$ to the ALS Association: [http://www.alsa.org/fight-als/ice-bucket-challenge.html](http://www.alsa.org/fight-als/ice-bucket-challenge.html)
 
 As a research intensive department, we experience first hand the impact of funding towards research.  There are many worthy causes for our charity, but I hope you will consider giving 10$ to the ALS Association today. This mass social movement has been amazing, so let's help the ball continue rolling! Also, suggestions of which department to challenge next are welcome.
 
 Here is what we need to top:
-https://www.youtube.com/watch?v=3r8iFqN8BCM
+[https://www.youtube.com/watch?v=3r8iFqN8BCM](https://www.youtube.com/watch?v=3r8iFqN8BCM).
  
 See you all tomorrow!
 Your BGSA Execs
