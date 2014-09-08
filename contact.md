@@ -5,7 +5,7 @@ permalink: /contact/
 id: "contact"
 ---
 
-**June 1, 2013 - June 1, 2014**
+**June 1, 2014 - June 1, 2015**
 
 Position | Executive | Email
 -----|----|----
