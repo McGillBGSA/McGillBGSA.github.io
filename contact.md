@@ -7,43 +7,45 @@ id: "contact"
 
 **June 1, 2013 - June 1, 2014**
 
-Position | Executive | End Date | Email
------|----|----| ----
-President |Claudia Wever | June 1, 2014 | claudia(dot)wever{at}mail(dot)mcgill(dot)ca
-VP | Mary Rose Bradley-Gill | June 1, 2014 | mary-rose(dot)bradley-gill{at}mail(dot)mcgill(dot)ca
-Secretary | Angeline de Bruyns | June 1, 2014 | angeline(dot)debruyns{at}mail(dot)mcgill(dot)ca
-Treasurer |  Josie Iacarella | June 1, 2014 | josephine(dot)iacarella{at}mail(dot)mcgill(dot)ca
-Website Administrator |  Kiyoko Gotanda | June 1, 2014 | kiyoko(dot)gotanda{at}mail(dot)mcgill(dot)ca
-BGSA ListServ Administrator |  Corey Chivers | June 1, 2014 | corey(dot)chivers{at}mail(dot)mcgill(dot)ca
+Position | Executive | Email
+-----|----|----
+President|Mary-Rose Bradley-Gill|mary-rose(dot)bradley-gill{at}mail(dot)mcgill(dot)ca
+Vice President|Scott DeVito|scott(dot)devito{at}mail(dot)mcgill(dot)ca
+Secretary|Angeline DeBruyns|angeline(dot)debruyns{at}mail(dot)mcgill(dot)ca
+Treasurer  |Dustin Raab|dustin(dot)raab{at}mail(dot)mcgill(dot)ca
+Website Administrator|Eleyine Zarour|eleyine(dot)zarour{at}mail(dot)mcgill(dot)ca
+BGSA ListServ Administrator|Alasdair Rideout|alasdair(dot)rideout{at}mail(dot)mcgill(dot)ca
 
 
 
-Councillor | End Date | Email 
+\#| Councillor | Email 
 ----|----|----
-Sami Chaaban | June 1, 2014 | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
-Aleksander Vujin | June 1, 2014 | aleksandar(dot)vujin{at}mail(dot)mcgill(dot)ca
-Caolan Kovach-Orr | June 1, 2014 | caolan(dot)kovach-orr{at}mail(dot)mcgill(dot)ca
-Kiyoko Gotanda | June 1, 2014 | kiyoko(dot)gotanda{at}mail(dot)mcgill(dot)ca
-Felipe Perez-Jvostev | June 1, 2014 | felipe(dot)perezjvostev{at}mail(dot)mcgill(dot)ca
-Ed Wong | June 1, 2014 | tek(dot)wa(dot)wong{at}mail(dot)mcgill(dot)ca
-Katharine Yagi | June 1, 2014 | katharine(dot)yagi{at}mail(dot)mcgill(dot)ca
-Johanna Bradie | June 1, 2014 | johanna(dor)bradie{at}mail(dot)mcgill(dot)ca
-Katie Pagnucco | June 1, 2014 | katie{dot}pagnucco{at}mail{dot}mcgill{dot}ca
-Dieta Hanson | June 1, 2014 | dieta(dot)hanson{at}mail(dot)mcgill(dot)ca
-Krista Oke | June 1, 2014 | krista(dot)oke{at}mail(dot)mcgill(dot)ca
-Scott De Vito | June 1, 2014 | scott(dot)devito{at}mail(dot)mcgill(dot)ca
-Beth Nyboer | June 1, 2014 | elizabeth(dot)nyboer{at}mail(dot)mcgill(dot)ca
-Danny Leung | June 1, 2014 | danny(dot)leung{at}mail(dot)mcgill(dot)ca
-Dustin Raab | June 1, 2014 | dustin(dot)raab{at}mail(dot)mcgill(dot)ca
-Andrea Morden | June 1, 2014 | andrea(dot)morden{at}mail(dot)mcgill(dot)ca
-Intramurals Administrator: Catherine Baltazar | June 1, 2014 | catherine(dot)baltazar{at}mail(dot)mcgill(dot)ca
-Media Representative: Monica Granados | June 1, 2014 | monica(dot)granados{at}mail(dot)mcgill(dot)ca
-PGSS Rep: Dieta Hanson  | June 1, 2014 | dieta(dot)hanson{at}mail(dot)mcgill(dot)ca
-PGSS Rep: Danny Leung | June 1, 2014 | danny(dot)leung{at}mail(dot)mcgill(dot)ca
-Green Committee (1 yr) Justin Marleau | June 1, 2014 | justin(dot)marleau{at}mail(dot)mcgill(dot)ca 
- Safety Committee (2 yr):  David O'Connor | June 1, 2014 | david(dot)oconnor{at}mail(dot)mcgill(dot)ca  
-Grad. Training Com. (2 yr): Zoe Lopez | June 1, 2014 | zoe(dot)joly-lopez{at}mail(dot)mcgill(dot)ca  
- Organismal Committee (1 yr): Dalal Hanna | June 1, 2014 | dalal(dot)hanna{at}mail(dot)mcgill(dot)ca 
-Molecular Seminar Com. (1 yr): Aleks Vujin | June 1, 2014 | aleksandar(dot)vujin{at}mail(dot)mcgill(dot)ca  
-AGSEM Representative (2 yr): Katie Pagnucco | June 1, 2014 | 2014biology(dot)delegate{at}agsem-aeedem(dot)ca  
-Curriculum Committee (2 yr): Sami Chaaban | June 1, 2014 | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
+1|Sarah Baldwin|sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
+2|Johanna Bradie|johanna(dot)bradie{at}mail(dot)mcgill(dot)ca
+3|Laura Canty|laura(dot)canty{at}mail(dot)mcgill(dot)ca
+4|Sami Chaaban|sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
+5|Emanuelle Chretien|emmanuelle(dot)chretien{at}mail(dot)mcgill(dot)ca
+6|Kiyoko Gotanda|kiyoko(dot)gotanda{at}mail(dot)mcgill(dot)ca
+7|Dieta Hanson|dieta(dot)hanson{at}mail(dot)mcgill(dot)ca
+8|Josie Iacarella|josephine(dot)iacarella{at}mail(dot)mcgill(dot)ca
+9|Elizabeth Nyboer|elizabeth(dot)nyboer{at}mail(dot)mcgill(dot)ca
+10|Krista Oke|krista(dot)oke{at}mail(dot)mcgill(dot)ca
+11|Dylan Schneider|dylan(dot)schneider{at}mail(dot)mcgill(dot)ca
+12|Aleksandar Vujin|aleksandar(dot)vujin{at}mail(dot)mcgill(dot)ca
+13|Claudia Wever|claudia(dot)wever{at}mail(dot)mcgill(dot)ca
+14|Callista Yee|callista(dot)yee{at}mail(dot)mcgill(dot)ca
+15|Sreeparna|sreeparna(dot)pradhan{at}mail(dot)mcgill(dot)ca
+16|Vacant (1st year Rep)|N/A
+
+Role| Rep | Email 
+----|----|----
+PGSS Rep|Dieta Hanson|dieta(dot)hanson{at}mail(dot)mcgill(dot)ca
+PGSS Rep|Vacant|
+Green Committee|Krista Oke|krista(dot)oke{at}mail(dot)mcgill(dot)ca
+GTC|Sarah Baldwin|sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
+Safety Copmmittee|David O'Connor|david(dot)oconnor{at}mail(dot)mcgill(dot)ca
+Curriculum Committee|Sami Chaaban|sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
+AGSEM Rep|Vacant|
+Organismal Seminar|Emanuelle Chretien|emmanuelle(dot)chretien{at}mail(dot)mcgill(dot)ca
+Molecular Seminar|Aleksandar Vujin|aleksandar(dot)vujin{at}mail(dot)mcgill(dot)ca
+Intramural Rep| Vacant | N/A
