@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="post" {% if page.id %}id="{{page.id}}" {% endif %} >
+
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+    <div class="calendar" id="#bgsa">
+        <iframe src="https://www.google.com/calendar/embed?src=mcgillbgsa%40gmail.com&ctz=America/Montreal" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    </div>
+
+
+    <div class="calendar" id="#molecular">
+        <iframe src="https://www.google.com/calendar/embed?src=cnffb0dt27p6r6fgl9k9v0401c%40group.calendar.google.com&ctz=America/Montreal" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    </div>
+
+    <div class="calendar" id="organismal">
+        <iframe src="https://www.google.com/calendar/embed?src=r505j8urno7apo509sst7eke68%40group.calendar.google.com&ctz=America/Montreal" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    </div>
+
+    <span class="glyphicon glyphicon-search"></span>
+
+    <div class="calendar" id="neurobiology">
+        <iframe src="https://www.google.com/calendar/embed?src=tgstv7dgfakodmroqtbppnsmm4%40group.calendar.google.com&ctz=America/Montreal" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </article>
+
+</div>

@@ -183,3 +183,11 @@ h2.post-title a{
 #contact table {
     margin-bottom: 20px;
 } 
+
+/* Calendar */
+
+.calendar {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top:20px;
+}
