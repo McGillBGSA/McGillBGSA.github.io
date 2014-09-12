@@ -1,8 +1,7 @@
 ---
 layout: calendar
 title: BGSA Calendar
-permalink: /calendar/
-root: "0.0.0.0:4000"
+permalink: /pages/calendar/
 ---
 
 Stay in the BGSA loop and check out the scheduled events below!
