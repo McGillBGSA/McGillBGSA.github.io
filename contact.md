@@ -40,12 +40,17 @@ BGSA ListServ Administrator|Alasdair Rideout|alasdair(dot)rideout{at}mail(dot)mc
 Role| Rep | Email 
 ----|----|----
 PGSS Rep|Dieta Hanson|dieta(dot)hanson{at}mail(dot)mcgill(dot)ca
-PGSS Rep|Vacant|
+PGSS Rep | Victor Frankel| victor(dot)frankel{at}mail(dot)mcgill(dot)ca
 Green Committee|Krista Oke|krista(dot)oke{at}mail(dot)mcgill(dot)ca
 GTC|Sarah Baldwin|sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
 Safety Copmmittee|David O'Connor|david(dot)oconnor{at}mail(dot)mcgill(dot)ca
 Curriculum Committee|Sami Chaaban|sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
-AGSEM Rep|Vacant|
+AGSEM Rep | Sunci Avlijas | suncica(dot)avlijas{at}mail(dot)mcgill(dot)ca
+AGSEM Rep | Andrea Morden | andrea(dot)morden{at}mail(dot)mcgill(dot)ca
 Organismal Seminar|Emanuelle Chretien|emmanuelle(dot)chretien{at}mail(dot)mcgill(dot)ca
 Molecular Seminar|Aleksandar Vujin|aleksandar(dot)vujin{at}mail(dot)mcgill(dot)ca
-Intramural Rep| Vacant | N/A
+Intramural Rep | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
+BGSA ListServ Administrator | Dylan Schneider | dylan(dot)schneider{at}mail(dot)mcgill(dot)ca
+Media Rep | Carlos Gonzalez Oliver| carlos(dot)gonzalezoliver{at}mail(dot)mcgill(dot)ca
+First Year Rep | Sreeparna Pradhan | sreeparna(dot)pradhan{at}mail(dot)mcgill(dot)ca
+First Year Rep | Anthony Sardain | anthony(dot)sardain{at}mail(dot)mcgill(dot)ca
