@@ -35,4 +35,4 @@ PLEASE SEND YOUR FEEDBACK BY EMAIL TO mcgillbgsa(at)gmail{dot}com BY **FRIDAY NO
 
 Thanks BGSA and I hope to hear from you soon!
 
-- Your BGSA Execs
+Your BGSA Execs
