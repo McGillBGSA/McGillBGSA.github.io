@@ -19,3 +19,5 @@ The 25 responses were then summarized and grouped in a draft document outlining 
 [Download the draft document here.](http://mcgillbgsa.com/assets/biodpt_survey_summary.docx)
 
 If you would like access to the raw responses from the Graduate Student Survey, please email me (sarah [dot] baldwin [at] mail [dot] mcgill [dot] ca). This information may be used to help improve the BGSA contribution to the Self-Study or to motivate other initiatives.
+
+Sarah Baldwin
