@@ -10,7 +10,8 @@ TA Meeting (5:30-6:30) and All-Units Meeting (6:30-7:30)
 ## Unionization Drive - Want to be an AGSEM member?
 If you have worked in any non-unionized Teaching Support position at McGill (for e.g. as a Grader), you can join AGSEM by signing a membership card. Once enough people (50%) sign cards, an accredited union can be formed.
 
-More information can be found here: [http://agsemcampaign.wordpress.com/](http://agsemcampaign.wordpress.com/)
+More information can be found here: [http://agsemcampaign.wordpress.com/](http://agsemcampaign.wordpress.com/).
+
 You can contact your BGSA AGSEM Delegates, Sunci and Andrea if you wish to sign a card and become a member.
 
 ## TA Bargaining Update
