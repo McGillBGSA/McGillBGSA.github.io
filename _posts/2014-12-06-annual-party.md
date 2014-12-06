@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BGSA Annual Party"
-date: 2014-12-03
+date: 2014-12-06
 categories: department
 ---
 
