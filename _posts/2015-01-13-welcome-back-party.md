@@ -14,6 +14,7 @@ Come welcome in the New Year with your favourite biology people! After all the h
 **Where**: Thomson House Basement
 
 **Features**:
+
 * Free beverages
 * Free snacks
 * CFS Referendum information
