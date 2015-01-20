@@ -37,6 +37,4 @@ See you there!
 
 The BGSA Execs
 
----
-
-[1]:  @gmail.      "_"
+[1]:  #     "@gmail"
