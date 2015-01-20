@@ -29,7 +29,7 @@ The walls of the new room are depressingly bare, and there must be some great fi
 We would prefer high resolution images, so ideally send them via email or dropbox to dustin.raab[_] [1] com 
 
 
-Lastly, **call for couches**:
+## Lastly, call for couches!
 
 Are you moving away and looking for a new home for your gently-used couch? Feel like doing a good deed and donating something for future BGSA members?  In order to reduce the amount of your BGSA money we spend on the room, we're looking for any couches in good condition that would help make our room feel more homey.  We will come pick it up! Send an email to mcgillbgsa[_] [1] com if you are interested!
 
