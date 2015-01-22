@@ -14,8 +14,7 @@ Vice President|Scott DeVito|scott(dot)devito{at}mail(dot)mcgill(dot)ca
 Secretary|Angeline DeBruyns|angeline(dot)debruyns{at}mail(dot)mcgill(dot)ca
 Treasurer  |Dustin Raab|dustin(dot)raab{at}mail(dot)mcgill(dot)ca
 Website Administrator|Eleyine Zarour|eleyine(dot)zarour{at}mail(dot)mcgill(dot)ca
-BGSA ListServ Administrator|Alasdair Rideout|alasdair(dot)rideout{at}mail(dot)mcgill(dot)ca
-
+BGSA ListServ Administrator | Dylan Schneider | dylan(dot)schneider{at}mail(dot)mcgill(dot)ca
 
 
 \#| Councillor | Email 
@@ -50,7 +49,6 @@ AGSEM Rep | Andrea Morden | andrea(dot)morden{at}mail(dot)mcgill(dot)ca
 Organismal Seminar|Emanuelle Chretien|emmanuelle(dot)chretien{at}mail(dot)mcgill(dot)ca
 Molecular Seminar|Aleksandar Vujin|aleksandar(dot)vujin{at}mail(dot)mcgill(dot)ca
 Intramural Rep | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
-BGSA ListServ Administrator | Dylan Schneider | dylan(dot)schneider{at}mail(dot)mcgill(dot)ca
 Media Rep | Carlos Gonzalez Oliver| carlos(dot)gonzalezoliver{at}mail(dot)mcgill(dot)ca
 First Year Rep | Sreeparna Pradhan | sreeparna(dot)pradhan{at}mail(dot)mcgill(dot)ca
 First Year Rep | Anthony Sardain | anthony(dot)sardain{at}mail(dot)mcgill(dot)ca
