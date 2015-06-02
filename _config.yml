@@ -14,9 +14,22 @@ permalink: pretty
 
 # Prose settings
 prose:
-	# rooturl: "_posts"
-    siteurl: "http://mcgillbgsa.com"
+    rooturl: "_posts"
+    siteurl: "http://mcgillbgsa.com/"
+    ignore:
+      - /_layouts
+      - /_includes
     metadata:
+        _posts/static:
+            - name: "layout"
+              field:
+                element: "hidden"
+                value: "page"
+            - name: "permalink"
+              field:
+                element: "text"
+                label: "Permalink"
+                value: ""
     	_posts:
         	- name: "layout"
 			  field:
@@ -29,8 +42,9 @@ prose:
             - name: "tags"
               field:
                  element: "multiselect"
-                 label: "Categories"
+                 label: "Add Tags"
                  value: "update"
+                 placeholder: "Choose Tags"
                  options: 
                  	- name: 'Department'
                       value: 'department'
@@ -53,8 +67,3 @@ prose:
                   element: "text"
                   value: "Guang Zhang, BGSA Web Admin"
                   help: "Who wrote this blog post?"
-                  
-                 
-
-
-
