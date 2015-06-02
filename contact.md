@@ -15,8 +15,8 @@ Vice-President | Scott De Vito | scott(dot)devito{at}mail(dot)mcgill(dot)ca
 Secretary | Sarah Baldwin | sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
 Finance Officer | Dustin Raab | dustin(dot)raab{at}mail(dot)mcgill(dot)ca
 ListServ | Rahul Rote | rahul(dot)rote{at}mail(dot)mcgill(dot)ca
-Website | ? | ?
-Media | Carlos Gonzalez-Olivier carlos(dot)gonzalez-olivier{at}mail(dot)mcgill(dot)ca
+Website | Guang Zhang | guang(dot)zhang{at}mail(dot)mcgill(dot)ca
+Media | Carlos Gonzalez-Olivier | carlos(dot)gonzalez-olivier{at}mail(dot)mcgill(dot)ca
 Media | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
 
 Role| Rep | Email 
