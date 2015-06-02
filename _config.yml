@@ -37,16 +37,20 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "published"
-        field:
-          element: "checkbox"
-          help: "Publish this post?"
-          label: "Published"
-          value: true
       - name: "category"
         field:
           element: "hidden"
           value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          value: "Blog Post Title"
+          help: "This blog post's title"
+      - name: "author"
+        field:
+          element: "text"
+          value: "Guang Zhang, BGSA Web Admin"
+          help: "Who wrote this blog post?"
       - name: "tags"
         field:
           element: "multiselect"
@@ -65,13 +69,10 @@ prose:
             - name: 'Getting Involved'
               value: 'getting-involved'
           alterable: true
-      - name: "title"
+      - name: "published"
         field:
-          element: "text"
-          value: "Blog Post Title"
-          help: "This blog post's title"
-      - name: "author"
-        field:
-          element: "text"
-          value: "Guang Zhang, BGSA Web Admin"
-          help: "Who wrote this blog post?"
+          element: "checkbox"
+          help: "Publish this post?"
+          label: "Published"
+          value: true
+      
