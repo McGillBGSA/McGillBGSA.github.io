@@ -17,6 +17,16 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://mcgillbgsa.com/'
   metadata:
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
     _posts:
       - name: "layout"
         field:
@@ -54,3 +64,4 @@ prose:
           element: "text"
           value: "Guang Zhang, BGSA Web Admin"
           help: "Who wrote this blog post?"
+  
