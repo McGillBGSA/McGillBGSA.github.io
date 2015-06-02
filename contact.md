@@ -10,7 +10,6 @@ published: true
 
 Position | Executive | Email
 -----|----|----
-
 President | Mary-Rose Bradley-Gill | mary-rose(dot)bradley-gill{at}mail(dot)mcgill(dot)ca
 Vice-President | Scott De Vito | scott(dot)devito{at}mail(dot)mcgill(dot)ca
 Secretary | Sarah Baldwin | sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
