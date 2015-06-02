@@ -69,10 +69,3 @@ prose:
             - name: 'Getting Involved'
               value: 'getting-involved'
           alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          help: "Publish this post?"
-          label: "Published"
-          value: true
-      
