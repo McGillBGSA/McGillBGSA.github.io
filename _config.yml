@@ -47,7 +47,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          value: "title"
+          value: "Blog Post Title"
           help: "This blog post's title"
       - name: "author"
         field:
