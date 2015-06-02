@@ -47,12 +47,12 @@ EEL Rep | ? | ?
 4 | Aleksander Vujin | aleksander(dot)vujin{at}mail(dot)mcgill(dot)ca
 5 | Callista Yee | callista(dot)yee{at}mail(dot)mcgill(dot)ca
 6 | Sreeparna Pradhan | sreeparna(dot)pradhan{at}mail(dot)mcgill(dot)ca
-7 | Léa Blondel lea(dot)blondel{at}mail(dot)mcgill(dot)ca
+7 | Léa Blondel | lea(dot)blondel{at}mail(dot)mcgill(dot)ca
 8 | Melanie Desrochers | melanie(dot)desrochers2{at}mail(dot)mcgill(dot)ca
-9 | Beth Nyober elizabeth(dot)nyober{at}mail(dot)mcgill(dot)ca
+9 | Beth Nyober | elizabeth(dot)nyober{at}mail(dot)mcgill(dot)ca
 10 | Nicolas Soubry | nicolas(dot)soubry{at}mail(dot)mcgill(dot)ca
 11 | Minhee Kim | minhee(dot)kim2{at}mail(dot)mcgill(dot)ca
-12 | Logan Smith logan(dot)smith{at}mail(dot)mcgill(dot)ca
+12 | Logan Smith | logan(dot)smith{at}mail(dot)mcgill(dot)ca
 13 | Katherine Shaw | katherine(dot)shaw{at}mail(dot)mcgill(dot)ca
 14 | Visou Ady | visou(dot)ady{at}mail(dot)mcgill(dot)ca
 15 | ? | ?
