@@ -14,43 +14,43 @@ permalink: pretty
 
 # Prose settings
 prose:
-    rooturl: '_posts'
-    siteurl: 'http://mcgillbgsa.com/'
-    metadata:
-        _posts:
-            - name: "layout"
-              field:
-                element: "hidden"
-                value: "post"
-            - name: "category"
-              field:
-                element: "hidden"
-                value: "blog"
-            - name: "tags"
-              field:
-                 element: "multiselect"
-                 label: "Add Tags"
-                 value: "update"
-                 placeholder: "Choose Tags"
-                 options: 
-                    - name: 'Department'
-                      value: 'department'
-                    - name: 'Update'
-                      value: 'update'
-                    - name: 'Event'
-                      value: 'event'
-                    - name: 'Information'
-                      value: 'information'
-                    - name: 'Getting Involved'
-                      value: 'getting-involved
-                 alterable: true
-            - name: "title"
-              field:
-                  element: "text"
-                  value: "title"
-                  help: "This blog post's title"
-            - name: "author"
-              field:
-                  element: "text"
-                  value: "Guang Zhang, BGSA Web Admin"
-                  help: "Who wrote this blog post?"
+  rooturl: '_posts'
+  siteurl: 'http://mcgillbgsa.com/'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          value: "update"
+          placeholder: "Choose Tags"
+          options: 
+            - name: 'Department'
+              value: 'department'
+            - name: 'Update'
+              value: 'update'
+            - name: 'Event'
+              value: 'event'
+            - name: 'Information'
+              value: 'information'
+            - name: 'Getting Involved'
+              value: 'getting-involved'
+          alterable: true
+      - name: "title"
+        field:
+          element: "text"
+          value: "title"
+          help: "This blog post's title"
+      - name: "author"
+        field:
+          element: "text"
+          value: "Guang Zhang, BGSA Web Admin"
+          help: "Who wrote this blog post?"
