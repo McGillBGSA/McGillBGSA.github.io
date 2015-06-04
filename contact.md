@@ -17,7 +17,7 @@ Finance Officer | Dustin Raab | dustin(dot)raab{at}mail(dot)mcgill(dot)ca
 ListServ | Rahul Rote | rahul(dot)rote{at}mail(dot)mcgill(dot)ca
 Website | Guang Zhang | guang(dot)zhang{at}mail(dot)mcgill(dot)ca
 Media | Carlos Gonzalez-Olivier | carlos(dot)gonzalez-olivier{at}mail(dot)mcgill(dot)ca
-Media | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
+Intramural Rep | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
 
 Role| Rep | Email 
 ----|----|----
@@ -36,7 +36,7 @@ WIPS Rep | Conrad Hall conrad(dot)hall{at}mail(dot)mcgill(dot)ca
 Neuro Rep | Sreeparna Pradhan | sreeparna(dot)pradhan{at}mail(dot)mcgill(dot)ca
 Neuro Rep | Katherine Shaw | katherine(dot)shaw{at}mail(dot)mcgill(dot)ca
 Organsimal Rep | Krista Oke | krista(dot)oke{at}mail(dot)mcgill(dot)ca
-EEL Rep | ? | ?
+EEL Rep | Tiffany Chin | tiffany(dot)chin{at}mail(dot)mcgill(dot)ca
 
 
 \#| Councillor | Email 
