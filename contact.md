@@ -22,7 +22,7 @@ Intramural Rep | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
 Role| Rep | Email 
 ----|----|----
 Safety Committee | Tiffany Chin | tiffany(dot)chin{at}mail(dot)mcgill(dot)ca
-GTC Rep Sarah Baldwin | sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
+GTC Rep | Sarah Baldwin | sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
 Curriculum Committee | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
 Green Committee | Krista Oke | krista(dot)oke{at}mail(dot)mcgill(dot)ca
 PGSS | Victor Frankel | victor(dot)frankel{at}mail(dot)mcgill(dot)ca
