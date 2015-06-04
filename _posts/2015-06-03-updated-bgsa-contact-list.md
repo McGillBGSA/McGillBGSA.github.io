@@ -1,12 +1,13 @@
 ---
 category: blog
 layout: post
-published: false
+published: true
 title: Updated BGSA Contact List
 author: "Guang Zhang, BGSA Web Admin"
 tags: 
   - update
 ---
+
 
 
 As end of year BBQ, the BGSA council passed on the torch to the new members! The updated contact list can be found [BGSA Contact](http://mcgillbgsa.com/contact/)
