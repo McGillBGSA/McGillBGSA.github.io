@@ -1,10 +1,11 @@
 ---
 category: blog
 layout: post
-published: false
-title: Blog Post Title
+published: true
+title: New BGSA council and upcoming events
 author: "Guang Zhang, BGSA Web Admin"
 ---
+
 
 **Hey BGSA,**
 
