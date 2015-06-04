@@ -6,6 +6,7 @@ id: contact
 published: true
 ---
 
+
 **June 1, 2015- June 1, 2016**
 
 Position | Executive | Email
@@ -32,7 +33,7 @@ AGSEM | Tyler Moulton | tyler(dot)moulton{at}mail(dot)mcgill(dot)ca
 Molecular Rep | Aleksandar Vujin | aleksandar(dot)vujin{at}mail(dot)mcgill(dot)ca
 Molecular Rep | Camille Delouche | camille(dot)delouch{at}mail(dot)mcgill(dot)c
 WIPS Rep | Scott De Vito | scott(dot)devito{at}mail(dot)mcgill(dot)ca
-WIPS Rep | Conrad Hall conrad(dot)hall{at}mail(dot)mcgill(dot)ca
+WIPS Rep | Conrad Hall | conrad(dot)hall{at}mail(dot)mcgill(dot)ca
 Neuro Rep | Sreeparna Pradhan | sreeparna(dot)pradhan{at}mail(dot)mcgill(dot)ca
 Neuro Rep | Katherine Shaw | katherine(dot)shaw{at}mail(dot)mcgill(dot)ca
 Organsimal Rep | Krista Oke | krista(dot)oke{at}mail(dot)mcgill(dot)ca
