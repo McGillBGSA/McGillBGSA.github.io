@@ -1,10 +1,11 @@
 ---
 category: blog
 layout: post
-published: false
+published: true
 title: Molecular Biology Student Symposium
 author: "Guang Zhang, BGSA Web Admin"
 ---
+
 
 
 Save the date for the 4th Molecular Biology Student Symposium (MBSS) taking place Friday August 14, 2015! This a symposium of talks and posters run by students, for students.  We encourage all GRADS, UNDERGRADS, and POST-DOCS in the Biology Department or related department using molecular/cellular/genetics techniques or concepts to come share their work as a presentation or poster. 
