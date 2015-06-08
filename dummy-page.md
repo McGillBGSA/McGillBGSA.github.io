@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Hello World!!
+title: Hello World
 permalink: /test/
+published: true
 ---
 
-# Hello World
 
 This is a dummy page for Guang.
