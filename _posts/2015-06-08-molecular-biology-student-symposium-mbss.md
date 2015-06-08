@@ -1,12 +1,13 @@
 ---
 category: blog
 layout: post
-published: false
+published: true
 title: Molecular Biology Student Symposium (MBSS)
 author: "Eleyine Zarour, BGSA Web Admin"
 tags: 
   - event
 ---
+
 
 
 
