@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-published: false
+published: true
 title: Happy Summer
 author: "Guang Zhang, BGSA Web Admin"
 ---
