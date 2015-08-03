@@ -1,10 +1,11 @@
 ---
 category: blog
 layout: post
-published: false
+published: true
 title: August Update
 author: "Guang Zhang, BGSA Web Admin"
 ---
+
 
 Hey BGSA,
 
