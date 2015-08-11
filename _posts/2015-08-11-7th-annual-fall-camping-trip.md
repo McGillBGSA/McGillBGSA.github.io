@@ -1,10 +1,11 @@
 ---
 category: blog
 layout: post
-published: false
+published: true
 title: 7th Annual Fall Camping Trip
 author: "Guang Zhang, BGSA Web Admin"
 ---
+
 
 Greetings New and Returning Biologist! 
 
