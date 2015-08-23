@@ -1,10 +1,12 @@
 ---
 category: blog
 author: "Guang Zhang, BGSA Web Admin"
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: BGSA Welcome (Back) BBQ
 ---
+
 
 
 Hello Biology!
