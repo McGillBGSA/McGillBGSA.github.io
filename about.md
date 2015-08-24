@@ -17,9 +17,13 @@ Stay informed about our events by checking out the [BGSA blog](http://mcgillbgsa
 
 #Use our BGSA ListServ!
 The BGSA ListServ is a mailing list to all BGSA members, or anyone who asks to be on the list.  All new students are added to the BGSA ListServ.  It’s used by BGSA council to inform all members of upcoming events and issues related to BGSA. 
-How to get on the ListServ: e-mail our ListServ administrator rahul{dot}rote{at}mail{dot}mcgill{dot)ca
+
+How to get on the ListServ: e-mail our ListServ administrator rahul.rote@mail.mcgill.ca
+
 How to use the ListServ: send out an e-mail to BGSA{at}LISTS{dot}MCGILL{dot}CA
+
 What to use it for: BGSA academic or social events, issues/events of interest to BGSA members, looking for lab equipment or other research related discussions.
+
 DO NOT use it for: advertising apartments and items, non-BGSA related things (for this please use our [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0))
  
  #Follow us on social media!
