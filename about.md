@@ -28,5 +28,7 @@ DO NOT use it for: advertising apartments and items, non-BGSA related things (fo
  
  #Follow us on social media!
 Facebook: request to be added to our [McGill BGSA Facebook group](https://www.facebook.com/groups/115696831777524/)
+
 Twitter: follow us @McGillBGSA
+
 Instagram: mcgillbgsa
