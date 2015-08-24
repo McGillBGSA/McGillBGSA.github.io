@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Helpful Links
-permalink: /helpful-links/
+permalink: "/helpful-links/"
+published: true
 ---
+
 
 Congratulations! You probably clicked on this link wondering what kind of links the BGSA would have for you to procrastinate with. Well, instead of just some boring old links, we thought we'd make it more like a story of a shy undergraduate trying to figure out how to apply who grows up into a graduated grad student with a shiny new paper that says you can put more letters after your name. However, if you're in a rush and don't like stories, the links are roughly grouped as follows:
 
-* [McGill University](#McGillUniversity) and the [Department of Biology](#DptBio)
+* [McGill University](https://www.mcgill.ca) and the [Department of Biology](#DptBio)
 * [Canadian Association for Graduate Studies](#cags)
 * [Applying](#applications)
 * [Fees](#fees)
