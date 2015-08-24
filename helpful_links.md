@@ -144,10 +144,9 @@ Mal Adapted moves to Montreal with her pet hamster, stick insect and Siamese bet
 
 Mal realizes she wants to practice a presentation, do a mock quals, schedule a committee meeting – she needs a room! What to do?!
 
-* To book large rooms in Stewart Biology such as N2/2, S1/3 or S1/4, speak to Janet at the timetabling office: timetable{dot}artsci{at}mcgill{dot}ca
-* To book the smaller rooms in Stewart Bio such as S2/2, S3/3, S4/106, N5/1, W2/3A, W2/3B or W2/3C, speak to Susan Gabe susan{dot}gabe{at}mcgill{dot}ca
-* For the secure 5th floor, W5/2 is through sylvia{dot}Levine{at}mcgill{dot}ca and N5/9 is booked by elke{dot}juster-schock{at}mcgill{dot}ca
-* For Redpath Museum, speak to sarah{dot}pimpaneau{at}mcgill{dot}ca
+* To book rooms in Stewart Biology (except the secure 5th floor), email Susan Gabel at _susan.gabe@mcgill.ca_
+* To book rooms in Stewart Biology secure 5th floor or Bellini 2nd floor conference room, email Elke Kuster-Schock at _elke.kusterschock@mcgill.ca_
+* To book rooms in Redpath Museum, email Sara Pimpaneau at _sarah.pimpaneau@mcgill.ca_
 
 So Mal Adapted is settling in. She's started her work as a graduate student, making friends and generally chugging along. And then she hits a wall. “OMG grad life is so hard! I'm all alone! I'm not going to make it!” she moans as she bangs her head against a wall. But she's not alone...
 
