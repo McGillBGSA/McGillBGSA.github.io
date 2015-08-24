@@ -18,6 +18,7 @@ Congratulations! You probably clicked on this link wondering what kind of links 
 * [Room bookings](http://biology.mcgill.ca/bioldept.html)
 * [Grad Student General Info](http://biology.mcgill.ca/grad/gradstudies.html)
 * [Teaching Assistant](http://biology.mcgill.ca/grad/ta_posts.html)
+* Additional Resources (see below)
 * [How to survive your defence](http://mcgillbgsa.weebly.com/uploads/2/1/9/8/21989822/how_to_go_through_a_successful_thesis_defense_without_losing_your_mind.docx) (how to go through a thesis defense without losing your mind!)
 
 So, let's start at the beginning. Let's call this student Mal Adapted.
