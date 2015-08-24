@@ -27,7 +27,7 @@ What to use it for: BGSA academic or social events, issues/events of interest to
 DO NOT use it for: advertising apartments and items, non-BGSA related things (for this please use our [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0))
  
  
- #Follow us on social media!
+#Follow us on social media!
  
 Facebook: request to be added to our [McGill BGSA Facebook group](https://www.facebook.com/groups/115696831777524/)
 
