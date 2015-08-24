@@ -10,9 +10,9 @@ Congratulations! You probably clicked on this link wondering what kind of links 
 
 * [McGill University](https://www.mcgill.ca) and the [Department of Biology](http://biology.mcgill.ca)
 * [Canadian Association for Graduate Studies](http://www.cags.ca)
-* [Applying](#applications)
-* [Fees](#fees)
-* [Scholarships and Grants](#scholarships)
+* [Applications & Deadlines](http://biology.mcgill.ca/grad/grad_gen_applications.html)
+* [Fees & Financial Support](http://biology.mcgill.ca/grad/grad_gen_fees&support.html)
+* [Scholarships and Grants](http://biology.mcgill.ca/grad/grad_gen_awards&scholarsh.html)
 * [Montreal](#montreal) (restaurants, getting around, entertainment, etc...)
 * [Grad Life at McGill](#gradlife)
 * [Room bookings](#rooms)
