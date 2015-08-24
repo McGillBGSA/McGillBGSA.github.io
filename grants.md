@@ -2,16 +2,13 @@
 layout: page
 title: Grants
 permalink: /grants/
+published: true
 ---
 
-# BGSA Travel Grant ($400)
 
-BGSA members (Biology grad students and post-docs) who plan on presenting a talk or poster at a conference in the next 6 months may be eligible for a $400 Travel Grant from your Biology Graduate Students Association! If you already attended a conference, this grant can be used retroactively provided the conference dates fall within the allotted times. See the attached form and full policies on the second page for full details.
+# PGSS Grants 
 
-*This award is applicable from* ***September 1, 2013 - August 31, 2013***. 
-Please see Rules & Regulations on the [application form](http://mcgillbgsa.weebly.com/uploads/2/1/9/8/21989822/bgsatravelgrantform_2013-2014.docx), for further information and deadlines.
-
-To apply for this semester's fabulous BGSA travel grant:  look for the BGSA email with more information! The deadline to apply is April 9, 2014.
+If you are organizing an academic related event, you can apply for a PGSS grant: [https://pgss.mcgill.ca/en/pgss-grants](https://pgss.mcgill.ca/en/pgss-grants)
 
 # BGSA Intramural Grant (max $150)
 
