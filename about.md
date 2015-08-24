@@ -20,13 +20,13 @@ The BGSA ListServ is a mailing list to all BGSA members, or anyone who asks to b
 
 How to get on the ListServ: e-mail our ListServ administrator _rahul.rote@mail.mcgill.ca_
 
-How to use the ListServ: send out an e-mail to _BGSA{at}LISTS{dot}MCGILL{dot}CA_
+How to use the ListServ: send out an e-mail to _BGSA@LISTS.MCGILL.CA_
 
 What to use it for: BGSA academic or social events, issues/events of interest to BGSA members, looking for lab equipment or other research related discussions.
 
 DO NOT use it for: advertising apartments and items, non-BGSA related things (for this please use our [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0))
  
  #Follow us on social media!
-Facebook: request to be added to our McGill BGSA Facebook group
+Facebook: request to be added to our [McGill BGSA Facebook group](https://www.facebook.com/groups/115696831777524/)
 Twitter: follow us @McGillBGSA
 Instagram: mcgillbgsa
