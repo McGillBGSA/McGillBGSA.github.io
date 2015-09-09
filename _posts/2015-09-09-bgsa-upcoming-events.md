@@ -27,10 +27,8 @@ Hope you had a good long weekend. We're always interested in hearing about any i
 **BGSAjiji**: See the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
 
 Apartments for sublet/lease:
-
-Roommate wanted near Concordia
-
-Short-term Subletter(s) wanted near Papineau metro either Sept-mid Nov and/or Jan-Feb 2016
+* Roommate wanted near Concordia
+* Short-term Subletter(s) wanted near Papineau metro either Sept-mid Nov and/or Jan-Feb 2016
 
 
 Don't forget to sync your calendars!
