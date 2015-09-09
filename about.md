@@ -33,3 +33,7 @@ Facebook: request to be added to our [McGill BGSA Facebook group](https://www.fa
 Twitter: follow us @McGillBGSA
 
 Instagram: mcgillbgsa
+
+# Constitution
+
+[Link](/assets/documents/BGSAConstitution2007.pdf)
