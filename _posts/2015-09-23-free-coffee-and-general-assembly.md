@@ -8,6 +8,7 @@ title: Free Coffee and General Assembly
 ---
 
 
+
 Hello biologists,
 
 Happy Fall everyone! Just because it's starting to get dark earlier, doesn't mean we all need to retreat into hibernation! Come out to a special edition coffee hour to showcase our room on Friday October 2.  Also, to you NEW STUDENTS, we will be looking for 2 first year reps at our General Assembly.  More info to come, but feel free to email me if you want to talk about it!
