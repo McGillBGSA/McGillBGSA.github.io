@@ -51,6 +51,7 @@ _Apartments for sublet/lease_:
 
 * Sublet or lease transfer near Laurier metro
 
+
 Make sure to follow us on social media:
 
 Twitter: @McGillBGSA
