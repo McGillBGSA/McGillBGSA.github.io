@@ -8,6 +8,7 @@ title: "Writing Night and Department Day!"
 ---
 
 
+
 Hey BGSA,
 
 This week is Department Day! I hope you've all heard about it and that someone from your lab is presenting a poster.  I will have mine up, so come out and say hi to me and all the other presenters!
@@ -25,7 +26,7 @@ Bring your work and a mug if you want some coffee.
 
 _When:_ October 22, 2015.
 
-_What:_lab tours, career talks, poster session, and wine and cheese!
+_What_: lab tours, career talks, poster session, and wine and cheese!
 
 Full schedule here:
 [http://biology.mcgill.ca/DepartmentDay_Oct22_2015.html](http://biology.mcgill.ca/DepartmentDay_Oct22_2015.html)
@@ -43,9 +44,11 @@ Sign up here: [https://docs.google.com/spreadsheets/d/1mby2pksGMiCsjvWt7b3gmUM0c
 
 BGSAjiji: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
 
-_Apartments for sublet/lease_
-- Room near Concordia
-- Sublet or lease transfer near Laurier metro
+_Apartments for sublet/lease_:
+
+* Room near Concordia
+
+* Sublet or lease transfer near Laurier metro
 
 Make sure to follow us on social media:
 
