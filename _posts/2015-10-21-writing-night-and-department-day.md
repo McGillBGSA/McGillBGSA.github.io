@@ -9,6 +9,7 @@ title: "Writing Night and Department Day!"
 
 
 
+
 Hey BGSA,
 
 This week is Department Day! I hope you've all heard about it and that someone from your lab is presenting a poster.  I will have mine up, so come out and say hi to me and all the other presenters!
