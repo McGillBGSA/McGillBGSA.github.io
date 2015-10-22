@@ -1,10 +1,12 @@
 ---
 category: blog
 author: "Guang Zhang, BGSA Web Admin"
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: "Writing Night and Department Day!"
 ---
+
 
 Hey BGSA,
 
