@@ -7,6 +7,7 @@ published: true
 ---
 
 
+
 **June 1, 2015- June 1, 2016**
 
 Position | Executive | Email
@@ -17,7 +18,7 @@ Secretary | Sarah Baldwin | sarah(dot)baldwin{at}mail(dot)mcgill(dot)ca
 Finance Officer | Dustin Raab | dustin(dot)raab{at}mail(dot)mcgill(dot)ca
 ListServ | Rahul Rote | rahul(dot)rote{at}mail(dot)mcgill(dot)ca
 Website | Guang Zhang | guang(dot)zhang{at}mail(dot)mcgill(dot)ca
-Media | Carlos Gonzalez-Olivier | carlos(dot)gonzalez-olivier{at}mail(dot)mcgill(dot)ca
+Media | Carlos Gonzalez-Olivier | carlos(dot)gonzalezolivier{at}mail(dot)mcgill(dot)ca
 Intramural Rep | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
 
 Role| Rep | Email 
@@ -56,5 +57,5 @@ EEL Rep | Tiffany Chin | tiffany(dot)chin{at}mail(dot)mcgill(dot)ca
 12 | Logan Smith | logan(dot)smith{at}mail(dot)mcgill(dot)ca
 13 | Katherine Shaw | katherine(dot)shaw{at}mail(dot)mcgill(dot)ca
 14 | Visou Ady | visou(dot)ady{at}mail(dot)mcgill(dot)ca
-15 | ? | ?
-16 | ? | ?
+15 | Jaime Grimm | jaime{dot}grimm{at}mail{dot}mcgill{dot}ca
+16 | Jennifer Barrow | jennifer{dot}barrow{at}mail{dot}mcgill{dot}ca
