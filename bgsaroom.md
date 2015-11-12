@@ -26,11 +26,9 @@ You can book the room for:
 
 #### To book the room:
 
-1.	Fill in the google calendar with: your name, e-mail to reach you at, and purpose of the booking. 
+1. Fill in the google calendar with: your name, e-mail to reach you at, and purpose of the booking. [https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal](https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal )
 
-[https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal](https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal )
-
-2.	Contact your nearest key holder and arrange to borrow the key or for them to let you in. If this is not convenient, we can leave your name with the porter during daytime hours.
+2. Contact your nearest key holder and arrange to borrow the key or for them to let you in. If this is not convenient, we can leave your name with the porter during daytime hours.
 
 
 ### (B)	To drop in
@@ -40,7 +38,7 @@ If you would just like to drop in and use it as a relaxing space:
 1. Make sure that the room is not booked (or at least be ready to clear out of the room if it’s booked).
 2. Locate your nearest key holder and arrange to borrow the key or for them to let you in.
 
-We will try to keep the room stocked with coffee and tea, as well as creamer and sugar.  You are welcome to make coffee and/or tea, but **please remember to clean up after yourselves**.  Wet coffee grounds sitting in the coffee maker can attract unwanted pests. If anything runs out, please notify us as soon as possible at mcgillbgsa@gmail.com
+We will try to keep the room stocked with coffee and tea, as well as creamer and sugar.  You are welcome to make coffee and/or tea, but **please remember to clean up after yourselves**.  Wet coffee grounds sitting in the coffee maker can attract unwanted pests. If anything runs out, please notify us as soon as possible at **mcgillbgsa@gmail.com**
 
 Overall, we really want to make our room as accessible as we can with only limited amounts of keys.  If you think you could use the room but not sure how, just contact one of the key holders!
 
