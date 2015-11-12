@@ -12,6 +12,7 @@ Hey all!
 Our room is ready for YOU to use! All the information is listed below, attached in the word document, and will be available on our website at [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) 
 
 As you'll read below, you'll have to contact a key holder to use the room. Here is a quick Google doc that you should save with key holder contact info:
+
 [Key Holder and Booking Information](https://docs.google.com/spreadsheets/d/1PWHg45l0DNsY3SJ0CzAYsUNY9Xdv4eXkx6zcgu3TZJo/edit?pli=1#gid=0)
 
 
