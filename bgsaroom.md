@@ -76,5 +76,5 @@ Bellini:
 -	Mary-Rose Bradley-Gill: mary-rose.bradley-gill{at}mail{dot}mcgill{dot}ca
 -	Visou Ady: visou.ady{at}mcgill{dot}com
 
-Let us know if you have any questions! This is also a trial period, and we welcome any comments/suggestions/complaints about the system.
+Let us know if you have any questions! This is also a trial period, and we welcome any comments/suggestions/complaints about the system. :smiley:
 
