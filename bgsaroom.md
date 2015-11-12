@@ -5,8 +5,14 @@ permalink: /bgsaroom/
 published: true
 ---
 
----
 Location: Stewart Biology N2/5
+
+Hey all!
+
+Our room is ready for YOU to use! All the information is listed below, attached in the word document, and will be available on our website at [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) 
+
+As you'll read below, you'll have to contact a key holder to use the room. Here is a quick Google doc that you should save with key holder contact info:
+[Key Holder and Booking Information](https://docs.google.com/spreadsheets/d/1PWHg45l0DNsY3SJ0CzAYsUNY9Xdv4eXkx6zcgu3TZJo/edit?pli=1#gid=0)
 
 
 Our BGSA room is a mix of lounge and work space.  We have a couple of couches as well as desks and chairs.  This room is available to all BGSA members, to either (A) book for a specific purpose or (B) to just drop in to relax or do some work away from your office/lab. If this is something that interests you, you should contact your nearest key holder to find out how you can use the room.
@@ -68,3 +74,6 @@ Redpath Museum: Ricciardi Lab
 Bellini:
 -	Mary-Rose Bradley-Gill: mary-rose.bradley-gill{at}mail{dot}mcgill{dot}ca
 -	Visou Ady: visou.ady{at}mcgill{dot}com
+
+Let us know if you have any questions! This is also a trial period, and we welcome any comments/suggestions/complaints about the system.
+
