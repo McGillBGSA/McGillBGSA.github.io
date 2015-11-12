@@ -28,7 +28,7 @@ You can book the room for:
 
 1.	Fill in the google calendar with: your name, e-mail to reach you at, and purpose of the booking. 
 
-[https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal] (https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal )
+[https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal](https://calendar.google.com/calendar/embed?src=vblrtvj266didholh52n2cv0hk%40group.calendar.google.com&ctz=America/Montreal )
 
 2.	Contact your nearest key holder and arrange to borrow the key or for them to let you in. If this is not convenient, we can leave your name with the porter during daytime hours.
 
