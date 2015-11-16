@@ -67,12 +67,15 @@ SBio 6th floor:
 -	Tiffany Chin (N): tiffany.chin{at}mail{dot}mcgill{dot}ca
 
 SBio 4th floor:
+
 -	Logan Smith: logan.smith2{at}mail{dot}mcgill{dot}ca
 
 Redpath Museum: Ricciardi Lab
+
 -	Dustin Raab: dustin.raab{at}mail{dot}mcgill{dot}ca
 
 Bellini:
+
 -	Mary-Rose Bradley-Gill: mary-rose.bradley-gill{at}mail{dot}mcgill{dot}ca
 -	Visou Ady: visou.ady{at}mcgill{dot}com
 
