@@ -11,11 +11,11 @@ Also, thanks to all of you who came out to the coffee hour on Wednesday.  We hop
 
 **Senior Women Academic Administrators of Canada (SWAAC) Graduate Student Award of Merit 2016**
 
-Applications to the Department must be given to Ancil by _NOVEMBER 23_.
+Applications to the Department must be given to Ancil by __NOVEMBER 23__.
 
 **Graduate Research Travel Awards**
 
-- Deadline: _Dec. 1, 2015_ at Noon
+- Deadline: __Dec. 1, 2015__ at Noon
 - Money can be used for: field work, short courses/workshops or learning about methodologies or techniques (but not conferences).
 - Award size: ~$2000 (depending on your needs and the number of applications)
 - The form and info: [http://biology.mcgill.ca/grad/forms/ResearchTravelAward_appl2016.pdf](http://biology.mcgill.ca/grad/forms/ResearchTravelAward_appl2016.pdf)
@@ -32,7 +32,7 @@ Applications to the Department must be given to Ancil by _NOVEMBER 23_.
 **BGSA Holiday Party**
 
 - Save the date for our Holiday Party!
-- When: Thursday December 10 @6:00PM
+- When: __Thursday December 10 @6:00PM__
 - Where: Thomson House
 - Keep an eye out for emails about when/how to get your tickets!
 - Right now we are in the organizing phase.  Sign up here if you'd like to help out:
