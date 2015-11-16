@@ -9,10 +9,11 @@ Also, thanks to all of you who came out to the coffee hour on Wednesday.  We hop
 
 ## Useful Information:
 
-*Senior Women Academic Administrators of Canada (SWAAC) Graduate Student Award of Merit 2016*
+**Senior Women Academic Administrators of Canada (SWAAC) Graduate Student Award of Merit 2016**
+
 Applications to the Department must be given to Ancil by _NOVEMBER 23_.
 
-*Graduate Research Travel Awards*
+**Graduate Research Travel Awards**
 
 - Deadline: _Dec. 1, 2015_ at Noon
 - Money can be used for: field work, short courses/workshops or learning about methodologies or techniques (but not conferences).
@@ -22,13 +23,13 @@ Applications to the Department must be given to Ancil by _NOVEMBER 23_.
  
  ## Upcoming Events:
  
-*Writing Night: TOMORROW*
+**Writing Night: TOMORROW**
 
 * Every Tuesday in the BGSA Room N2/5
 * Usually from 5:30-7:30PM or until people get tired!
 * Bring your work and a mug if you want some coffee.
 
-*BGSA Holiday Party*
+**BGSA Holiday Party**
 
 - Save the date for our Holiday Party!
 - When: Thursday December 10 @6:00PM
@@ -37,7 +38,7 @@ Applications to the Department must be given to Ancil by _NOVEMBER 23_.
 - Right now we are in the organizing phase.  Sign up here if you'd like to help out:
 [https://docs.google.com/spreadsheets/d/1FZ27OXEBZxIKfrCeulM-7rmdwxTVp3dmYq14nPFlV6E/edit?pli=1#gid=0](https://docs.google.com/spreadsheets/d/1FZ27OXEBZxIKfrCeulM-7rmdwxTVp3dmYq14nPFlV6E/edit?pli=1#gid=0)
 
-## BGSAjiji: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
+#### BGSAjiji: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
  
 Apartments for sublet/lease:
  
@@ -47,6 +48,7 @@ Apartments for sublet/lease:
 - Sublet or lease transfer near Laurier metro
  
 Make sure to follow us on social media:
+
 * Twitter: @McGillBGSA
 * Facebook Group: McGill BGSA
 * Instagram: instagram.com/mcgillbgsa 
