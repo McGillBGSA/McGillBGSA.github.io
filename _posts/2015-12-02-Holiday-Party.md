@@ -19,7 +19,8 @@ For the dessert contest, sign up on the [google doc](https://docs.google.com/spr
 
  __BGSAjiji__: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
 
-##### Apartments for sublet/lease:
+Apartments for sublet/lease:
+
 - January 2016 sublet or least transfer on des Pins/Aylmer
 - January 2016 lease transfer near Mont Royal metro
 - URGENT End of November: Room in large Plateau apartment available 
@@ -28,13 +29,16 @@ For the dessert contest, sign up on the [google doc](https://docs.google.com/spr
 - Jan 22-Feb 6th double bedroom available near Laurier metro (price = cat-sitting 2 cats)
 
 Things for sale
+
 - Les Paul Electric guitar
 
 Make sure to follow us on social media:
+
 - Twitter: @McGillBGSA
 - Facebook Group: McGill BGSA
 - Instagram: instagram.com/mcgillbgsa 
 - Website: mcgillbgsa.com
 
 Cheers,
+
 BGSA
