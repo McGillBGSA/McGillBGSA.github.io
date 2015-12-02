@@ -7,13 +7,16 @@ Don't forget to check out our room.  Just contact a key holder to so you can dro
 
 For more information on key holder locations:
 [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/)
+
 Or come to writing nights (Tuesdays)!
 
 ## BGSA Holiday Party
 - When: Thursday December 10 @6:00PM
 - Where: Thomson House
 - What: Maison Thai dinner (vegetarian and vegan options), trivia, lip sync contest, and dessert contest!
+
 For the lip sync, sign your lab up by e-mailing Logan logan.smith2[at]mail[dot]mcgill[dot]ca
+
 For the dessert contest, sign up on the [google doc](https://docs.google.com/spreadsheets/d/1Y9iYjV1Sw7t8uupajvaXIaNxLT-CJcSs7AJ0Y0QWLyo/edit?ts=565364cc#gid=0&vpid=A1).
 
 
