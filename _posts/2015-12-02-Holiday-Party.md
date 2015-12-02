@@ -1,3 +1,4 @@
+
 Hey BGSA,
 
 Hope you are all getting excited for the Holiday Party! Tickets will be on sale this week, stay tuned for an email from this year's organizer Emmanuelle.
@@ -16,7 +17,7 @@ For the lip sync, sign your lab up by e-mailing Logan logan.smith2[at]mail[dot]m
 For the dessert contest, sign up on the [google doc](https://docs.google.com/spreadsheets/d/1Y9iYjV1Sw7t8uupajvaXIaNxLT-CJcSs7AJ0Y0QWLyo/edit?ts=565364cc#gid=0&vpid=A1).
 
 
-## __BGSAjiji__: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
+ __BGSAjiji__: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
 
 Apartments for sublet/lease:
 - January 2016 sublet or least transfer on des Pins/Aylmer
