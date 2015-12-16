@@ -6,7 +6,6 @@ categories: event
 
 ---
 
----
 Hello BGSA Community,
 
 The weather has turned and we are now on our way to the festive season. As such, the 7th annual BGSA winter retreat is inching closer and closer. Get out your skates, skis, snowshoes and winter attire for some classic winter fun. This year we have booked an Auberge in Eastman, QC for the weekend of February 5th-7th. (No more crossing the USA border, time saved, visas spared). It is located in the scenic Eastern Townships near lake Memphremagog.
