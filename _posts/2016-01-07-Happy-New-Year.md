@@ -24,7 +24,7 @@ __Upcoming Events__
 - What: Free nachos and drinks
 - Why: Help welcome the new students and see all your favourite biologists to start the semester off on the right foot!
 
-*_Workshop_*:
+**Workshop**:
 
 - Equity and Diversity in the Lab
 - The SEDE Office is pleased to offer a 2 hour interactive workshop for students, staff and faculty in the Biology Department of McGill University. Equity and Diversity in the Lab provides an opportunity to learn about and work through questions of equity and social inequality related to personal interactions in teaching and research settings. The session focuses on building the awareness and skills needed to establish and maintain trusting, respectful, and cooperative relationships on campus. 
