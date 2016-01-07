@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Happy New Year!
+title: "Happy New Year!"
+date: 2016-01-07
+categories: event
 ---
 
 Hey BGSA,
@@ -15,14 +17,14 @@ For more information on key holder locations:
 
 __Upcoming Events__
 
-*BGSA Welcome (Back)*
+**BGSA Welcome (Back)**
 
 - When: Wednesday January 13 @5:00PM
 - Where: Thomson House
 - What: Free nachos and drinks
 - Why: Help welcome the new students and see all your favourite biologists to start the semester off on the right foot!
 
-_Workshop_:
+*_Workshop_*:
 
 - Equity and Diversity in the Lab
 - The SEDE Office is pleased to offer a 2 hour interactive workshop for students, staff and faculty in the Biology Department of McGill University. Equity and Diversity in the Lab provides an opportunity to learn about and work through questions of equity and social inequality related to personal interactions in teaching and research settings. The session focuses on building the awareness and skills needed to establish and maintain trusting, respectful, and cooperative relationships on campus. 
@@ -64,4 +66,5 @@ Make sure to follow us on social media:
 
 
 Happy Holidays!
+
 BGSA President
