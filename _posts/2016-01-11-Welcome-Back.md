@@ -14,7 +14,7 @@ We have quite a few things coming up! We will be having our writing night start 
 
 *Upcoming Events*
 
-*BGSA Welcome (Back)*
+**BGSA Welcome (Back)**
 
 - When: Wednesday January 13 @5:00PM-7:00PM
 - Where: Thomson House
@@ -23,18 +23,18 @@ We have quite a few things coming up! We will be having our writing night start 
 
 *Workshop:*
 
-*Equity and Diversity in the Lab*
+**Equity and Diversity in the Lab**
 
 - The SEDE Office is pleased to offer a 2 hour interactive workshop for students, staff and faculty in the Biology Department of McGill University. Equity and Diversity in the Lab provides an opportunity to learn about and work through questions of equity and social inequality related to personal interactions in teaching and research settings. The session focuses on building the awareness and skills needed to establish and maintain trusting, respectful, and cooperative relationships on campus. 
 - The workshop will be held from 12 pm - 2pm on Monday, January 18 in Stewart Biology Room W4/12. Food will be provided
 
-*BGSA General Assembly*
+**BGSA General Assembly**
 
 - When: Wednesday January 27 @4:30
 - Where: TBA
 - What: updates for the new year and free pizza
  
-*Writing Night: TOMORROW*
+**Writing Night: TOMORROW**
 
 - Every Tuesday in the BGSA Room N2/5
 - Usually from 5:30-8:00PM or until people get tired!
@@ -43,7 +43,7 @@ We have quite a few things coming up! We will be having our writing night start 
 
 BGSAjiji: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
 
-*Apartments for sublet/lease*
+**Apartments for sublet/lease**
 
 - January 2016 sublet or least transfer on des Pins/Aylmer
 - May -Aug 2016 transfer or sublet 1 1/2 near Guy-Concordia metro
