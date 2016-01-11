@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome Back at Thomson House this Wednesday!"
+date: 2016-01-11
 categories: event
 ---
 
