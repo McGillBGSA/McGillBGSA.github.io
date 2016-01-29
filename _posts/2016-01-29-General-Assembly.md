@@ -15,14 +15,15 @@ Also, if you have some reading or writing that needs doing but you're having tro
 **Upcoming Events**
 
 Coffee Hour
-When: Wednesday Feb 10 10:00-11:00
-Where: N2/5 BGSA Room
-What: free coffee and good company
+
+- When: Wednesday Feb 10 10:00-11:00
+- Where: N2/5 BGSA Room
+- What: free coffee and good company
 
 **Winter Retreat!**
-When: Feb 5th - 7th
-Where: Were staying in Canada this year and the cabin has heat, water, bathrooms, and electricity! Check it out!  [http://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=18783](http://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=18783) 
-What: Skiing, snowshoeing, cross-country skiing, hiking, playing games, sing the songs, and much more!
+
+- When: Feb 5th - 7th
+- Where: Were staying in Canada this year and the cabin has heat, water, bathrooms, and electricity! Check it out!  [http://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=18783](http://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=18783) - What: Skiing, snowshoeing, cross-country skiing, hiking, playing games, sing the songs, and much more!
 
 
 BGSAjiji: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
