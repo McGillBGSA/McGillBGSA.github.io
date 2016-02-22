@@ -1,5 +1,5 @@
 ---
-title: "Looking for a volunteer for creating LinkedIn profile of BGSA!"
+title: 'Looking for a volunteer for creating LinkedIn profile of BGSA!'
 layout: post
 date: 2016-02-22
 categories: event
