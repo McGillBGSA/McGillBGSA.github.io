@@ -20,7 +20,7 @@ Stay tuned for a BGSA event towards the end of this month!
  
 Upcoming Events
  
-**Writing Night: TOMORROW**
+**Writing Night: TONIGHT**
 
 - Every Tuesday in the BGSA Room N2/5
 - Usually from 5:30-8:00PM or until people get tired!
