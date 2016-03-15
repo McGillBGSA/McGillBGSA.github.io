@@ -9,7 +9,7 @@ Hey BGSA!
  
 Don't forget to pay your CEEB retreat deposits if you registered and plan to have fun at Mont St.Hilaire! 
 
-Also, BGSA members have been cordially invited to attend the MBSU Wine and Cheese this **Thursday from 4-8 in the Bellini Atrium*.  Lots of free crackers, cheese, and wine! Hope to see you all there!
+Also, BGSA members have been cordially invited to attend the MBSU Wine and Cheese this **Thursday from 4-8 in the Bellini Atrium**.  Lots of free crackers, cheese, and wine! Hope to see you all there!
  
 _Upcoming Events_
  
@@ -45,8 +45,8 @@ Make sure to follow us on social media:
 
 - Twitter: @McGillBGSA
 - Facebook Group: McGill BGSA
-- Instagram: [instagram.com/mcgillbgsa](instagram.com/mcgillbgsa) 
-- Website: [mcgillbgsa.com](mcgillbgsa.com)
+- Instagram: instagram.com/mcgillbgsa
+- Website: mcgillbgsa.com
 - Visit our BGSA Room in SBio N2/5: [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) for more info
  
  
