@@ -42,7 +42,7 @@ BGSAjiji: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUn
 
 Make sure to follow us on social media:
 
--Twitter: @McGillBGSA
+- Twitter: @McGillBGSA
 - Facebook Group: McGill BGSA
 - Instagram: [instagram.com/mcgillbgsa](instagram.com/mcgillbgsa) 
 - Website: [mcgillbgsa.com](mcgillbgsa.com)
