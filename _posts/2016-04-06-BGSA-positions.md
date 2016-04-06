@@ -1,7 +1,7 @@
 ---
-date:2016-04-06
-title:"BGSA positions to be filled!"
-categories:event
+date: 2016-04-06
+title: "BGSA positions to be filled!"
+categories: event
 ---
 
 Hey BGSA!
