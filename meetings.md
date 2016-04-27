@@ -5,10 +5,10 @@ permalink: /meetings/
 ---
 
 #Next Meeting
-Time:  *March 31st, 2016 Thursday 5:30-7:30pm* | Place: *Thomson House Basement*
+Time:  *May 3rd, 2016 Tuesday 4:30-5:30pm* | Place: *Stewart N2/2*
 
 #Forms
-* [Councilor Position](http://mcgillbgsa.weebly.com/uploads/2/1/9/8/21989822/bgsa_councilor_positions_by-election.docx)
+* [Councilor Position](http://mcgillbgsa.com//assets/Documents/BGSA Representatives List 2016.docx)
 
 #Past Meetings
 
