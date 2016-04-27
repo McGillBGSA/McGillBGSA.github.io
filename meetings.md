@@ -8,7 +8,7 @@ permalink: /meetings/
 Time:  *May 3rd, 2016 Tuesday 4:30-5:30pm* | Place: *Stewart N2/2*
 
 #Forms
-* [Councilor Position](http://mcgillbgsa.com//assets/Documents/BGSA Representatives List 2016.docx)
+* [Councilor Position](http://mcgillbgsa.com//assets/documents/BGSA-Representatives-List-2016.docx)
 
 #Past Meetings
 
