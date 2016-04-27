@@ -5,7 +5,11 @@ date: 2016-04-27
 ---
 Hey BGSA!
  
-As you have received information about how to be involved in the BGSA council or run for a Representative position. If you want to get a head start or talk to someone involved, this is a list of our current members who would be happy to talk to you if you have any questions: [http://mcgillbgsa.com/contact/](http://mcgillbgsa.com/contact/)
+As you have received information about how to be involved in the BGSA council or run for a Representative position. If you want to get a head start or talk to someone involved, this is a list of our current members who would be happy to talk to you if you have any questions: [http://mcgillbgsa.com/contact/](http://mcgillbgsa.com/contact/). The documents you need are:
+
+- [Councilor Position Descriptions](http://mcgillbgsa.com//assets/documents/BGSA-Representatives-List-2016.docx)
+- [Candidate Form](http://mcgillbgsa.com//assets/documents/CandidateForm.xls)
+- [Support Form](http://mcgillbgsa.com//assets/documents/SupportForm.xls)
  
 Also note that I’ve booked the day for our end of year BBQ! Official announcement to follow.
  
