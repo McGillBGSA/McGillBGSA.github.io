@@ -8,9 +8,10 @@ Hey BGSA!
 Come out to our end of the year General Assembly tomorrow at 4:30PM.  There will be free pizza, AND you can exercise your BGSA right to vote!  It’s still not too late to apply for a position for BGSA council. We are still desperate for two AGSEM Reps, one PGSS Rep, and a Green Committee Rep. So please apply by the end of the day!! Or at least show up to the GA if you think these positions might appeal to you, if you want to ask some more questions about it.  The elections forms, position descriptions, and the GA agenda are posted previously.
  
 To apply:
-1.     fill out the candidate form. Send to **bgsaelections[at]gmail[dot]com**
-2.     send the support form to three fellow BGSA members to support you.  Tell them to send them to **bgsaelections[at]gmail[dot]com**
-3.     Show up to the GA!
+
+1. fill out the candidate form. Send to **bgsaelections[at]gmail[dot]com**
+2. send the support form to three fellow BGSA members to support you.  Tell them to send them to **bgsaelections[at]gmail[dot]com**
+3. Show up to the GA!
  
 Also, with moving day in a couple of months, there are some new things on our BGSAjiji you should check out! Including some household items for sale!
  
