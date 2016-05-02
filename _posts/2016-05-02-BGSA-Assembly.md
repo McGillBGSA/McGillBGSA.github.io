@@ -5,8 +5,8 @@ date: 2016-05-02
 ---
 Hey BGSA!
  
-Come out to our end of the year General Assembly tomorrow at 4:30PM.  There will be free pizza, AND you can exercise your BGSA right to vote!  It’s still not too late to apply for a position for BGSA council. We are still desperate for two AGSEM Reps, one PGSS Rep, and a Green Committee Rep. So please apply by the end of the day!! Or at least show up to the GA if you think these positions might appeal to you, if you want to ask some more questions about it.  The elections forms, position descriptions, and the GA agenda are posted previously.
- 
+Come out to our end of the year General Assembly tomorrow at 4:30PM.  There will be free pizza, AND you can exercise your BGSA right to vote!  It’s still not too late to apply for a position for BGSA council. We are still desperate for two AGSEM Reps, one PGSS Rep, and a Green Committee Rep. So please apply by the end of the day!! Or at least show up to the GA if you think these positions might appeal to you, if you want to ask some more questions about it.  The [candidate form](http://mcgillbgsa.com//assets/documents/BGSA-Representatives-List-2016.docx), [position descriptions](http://mcgillbgsa.com//assets/documents/BGSA-Representatives-List-2016.docx), and [support form](http://mcgillbgsa.com//assets/documents/SupportForm.xls) can be downloaded here.
+
 To apply:
 
 1. fill out the candidate form. Send to **bgsaelections[at]gmail[dot]com**
