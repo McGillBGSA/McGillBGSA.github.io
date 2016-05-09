@@ -7,7 +7,7 @@ layout: post
 
 Hey BGSA!
  
-Thanks to everyone who came to the GA last week! We have an awesome new council starting June 1st who will include Logan Smith as President and Helena Barr as Vice-President. Full council and reps list is attached here.  Congratulations to all of them! We still did not fill one PGSS Rep and 2 AGSEM Rep positions, so if you think you would be interested please contact me. 
+Thanks to everyone who came to the GA last week! We have an awesome new council starting June 1st who will include Logan Smith as President and Helena Barr as Vice-President. Full council and reps list is attached [here](http://mcgillbgsa.com//assets/documents/BGSACouncil2016-2017.xlsx).  Congratulations to all of them! We still did not fill one PGSS Rep and 2 AGSEM Rep positions, so if you think you would be interested please contact me. 
 
 Also, don't forget to come out to our monthly coffee hour THIS WEDNESDAY! It might be the last one for the summer so you should come! Please bring your own mug.
 
