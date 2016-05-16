@@ -29,7 +29,7 @@ Also, I am looking for people to run this year's **Molecular Biology Student Sym
 - When: June 1 12:00-1:30 (but come early enough so we don’t run out!)
 - Where: SBio courtyard
  
-## BGSAjiji: see the BGSAjiji for more info!
+## BGSAjiji: see the [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0) for more info!
 
 Apartments for sublet/lease
 
