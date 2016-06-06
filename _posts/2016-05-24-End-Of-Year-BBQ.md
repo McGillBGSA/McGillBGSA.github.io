@@ -28,11 +28,11 @@ Items to sell
  - Manuel Rodriguez Classical Guitar
 
 Make sure to follow us on social media:
- - Twitter: @McGillBGSA
- - Facebook Group: McGill BGSA
- - Instagram: [instagram.com/mcgillbgsa](instagram.com/mcgillbgsa) 
- - Website: [mcgillbgsa.com](mcgillbgsa.com)
- - Visit our BGSA Room in SBio N2/5: [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) for more info
+ - Twitter: @McGillBGSA '\n'
+ - Facebook Group: McGill BGSA '\n'
+ - Instagram: [instagram.com/mcgillbgsa](instagram.com/mcgillbgsa) '\n'
+ - Website: [mcgillbgsa.com](mcgillbgsa.com)'\n'
+ - Visit our BGSA Room in SBio N2/5: [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) for more info '\n'
  
 Have a good week!
 Mary-Rose
