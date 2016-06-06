@@ -10,7 +10,7 @@ layout: post
 Thanks to everyone who came out to appreciate the staff last Thursday! I hope you all enjoyed the beautiful long weekend. 
 Let's hope the nice weather holds out for our **End-of-Year BBQ** happening next Wednesday June 1 (unlike last year).  See below for info.
  
-##Upcoming Events
+## Upcoming Events
    
 **End of Year BBQ**
 What: Free food! Leave your lunch at home for burgers, hot dogs and veggie options!
