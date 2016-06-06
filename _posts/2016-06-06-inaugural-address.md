@@ -36,11 +36,13 @@ this week:
 
 
 __stay hip:__
-- Twitter: @McGillBGSA
-- Facebook Group: McGill BGSA
-- Instagram: [instagram.com/mcgillbgsa](instagram.com/mcgillbgsa) 
-- Website: [mcgillbgsa.com](mcgillbgsa.com)
-- Visit our BGSA Room in SBio N2/5: [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) for more info
+
+ - Twitter: @McGillBGSA
+ - Facebook Group: McGill BGSA
+ - Instagram: instagram.com/mcgillbgsa 
+ - Website: mcgillbgsa.com
+ - Visit our BGSA Room in SBio N2/5: [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) for more info
+ 
  
 MUCH LOVE,
 Logan
