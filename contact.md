@@ -12,7 +12,7 @@ published: true
 
 Position | Executive | Email
 -----|----|----
-President | Logan Smith | Logan(dot)Smith{at}mail(dot)mcgill(dot)ca
+President | Logan Smith | Logan(dot)Smith2{at}mail(dot)mcgill(dot)ca
 Vice-President | Helena Barr | Helena(dot)Barr{at}mail(dot)mcgill(dot)ca
 Secretary | Sunci Avlijas | Sunci(dot)Avlijas{at}mail(dot)mcgill(dot)ca
 Finance Officer | Dustin Raab | dustin(dot)raab{at}mail(dot)mcgill(dot)ca
