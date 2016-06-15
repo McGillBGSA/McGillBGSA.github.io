@@ -20,7 +20,7 @@ If you have alternate analyses feel free to complain at me.
 There are still PGSS and AGSEM rep positions available. Feel free to email me!
 
 
-**3)sending love and tears to my fellow queers <3 **
+**3)sending love and tears to my fellow queers <3**
 [Love](https://www.youtube.com/watch?v=0XoGrh9eL9Y)
 
 
@@ -34,5 +34,7 @@ __stay hip:__
  
  
 MUCH LOVE,
+
 Logan
+
 BGSA president
