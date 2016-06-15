@@ -43,31 +43,22 @@ International Student Rep | Yang Shao | Yang(dot)Shao{at}mail(dot)mcgill(dot)ca
 
 \#| Councillor | Email 
 ----|----|----
-1 | Andrea Morden | andrea(dot)morden{at}mail(dot)mcgill(dot)ca
-2 | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
-3 | Krista Oke | krista(dot)oke{at}mail(dot)mcgill(dot)ca
-4 | Aleksander Vujin | aleksander(dot)vujin{at}mail(dot)mcgill(dot)ca
-5 | Callista Yee | callista(dot)yee{at}mail(dot)mcgill(dot)ca
-6 | Sreeparna Pradhan | sreeparna(dot)pradhan{at}mail(dot)mcgill(dot)ca
-7 | Léa Blondel | lea(dot)blondel{at}mail(dot)mcgill(dot)ca
-8 | Melanie Desrochers | melanie(dot)desrochers2{at}mail(dot)mcgill(dot)ca
-9 | Beth Nyober | elizabeth(dot)nyober{at}mail(dot)mcgill(dot)ca
-10 | Nicolas Soubry | nicolas(dot)soubry{at}mail(dot)mcgill(dot)ca
-11 | Minhee Kim | minhee(dot)kim2{at}mail(dot)mcgill(dot)ca
-12 | Logan Smith | logan(dot)smith{at}mail(dot)mcgill(dot)ca
-13 | Katherine Shaw | katherine(dot)shaw{at}mail(dot)mcgill(dot)ca
-14 | Visou Ady | visou(dot)ady{at}mail(dot)mcgill(dot)ca
-
 1 | Jaime Grimm | jaime{dot}grimm{at}mail{dot}mcgill{dot}ca
 2 | Jennifer Barrow | jennifer{dot}barrow{at}mail{dot}mcgill{dot}ca
 3 | Mary-Rose Bradley-Gill | Mary-Rose(dot)Bradley-Gill{at}mail{dot}mcgill{dot}ca
-4 | Scott De Vito |Scott De Vito{at}mail{dot}mcgill{dot}ca
-5 | Léa Blondel |Léa Blondel{at}mail{dot}mcgill{dot}ca
-5 | Léa Blondel |Léa Blondel{at}mail{dot}mcgill{dot}ca
-5 | Léa Blondel |Léa Blondel{at}mail{dot}mcgill{dot}ca
-5 | Léa Blondel |Léa Blondel{at}mail{dot}mcgill{dot}ca
-5 | Léa Blondel |Léa Blondel{at}mail{dot}mcgill{dot}ca
-
+4 | Scott De Vito | Scott(dot)DeVito{at}mail{dot}mcgill{dot}ca
+5 | Léa Blondel | Léa(dot)Blondel{at}mail{dot}mcgill{dot}ca
+6 | Krista Oke | Krista(dot)Oke{at}mail{dot}mcgill{dot}ca
+7 | Sreeparna Pradhan | Sreeparna(dot)Pradhan{at}mail{dot}mcgill{dot}ca
+8 |  Nicolas Soubry | nicolas(dot)soubry{at}mail(dot)mcgill(dot)ca
+9 | Minhee Kim | Minhee(dot)Kim(dot){at}mail(dot)mcgill(dot)ca
+10 | Sami Chaaban | sami(dot)chaaban{at}mail(dot)mcgill(dot)ca
+11 | Aleksander Vujin | aleksander(dot)vujin{at}mail(dot)mcgill(dot)ca
+12 | Beth Nyober | elizabeth(dot)nyober{at}mail(dot)mcgill(dot)ca
+13 | James Bull | James(dot)Bull{at}mail(dot)mcgill(dot)ca
+14 | Christine Yergeau | Christine(dot)Yergeau{at}mail{dot}mcgill{dot}ca
+15 | New Student Rep (September)
+16 | New Student Rep (September)
 
 
 
