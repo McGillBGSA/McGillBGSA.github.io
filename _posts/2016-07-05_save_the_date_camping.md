@@ -1,8 +1,8 @@
 ---
-layout: post
 date: 2016-07-05
-categories: event
 title: "Save the date for fall camping!"
+categories: event
+layout: post
 ---
 
 
