@@ -5,7 +5,7 @@ title: "Python for Biologist workshop?"
 categories: event
 ---
 
-## HI Everyone
+## You're all great
 
 **1) [poll](https://docs.google.com/forms/d/e/1FAIpQLSeG3CCq-8MItIFiLgNUQMU6KgT9pzvlFONz5GEvYUde3loZPQ/viewform?c=0&w=1) for fall seminar: Python for biologists!**
      Our very own Carlos was part of a programming workshop for biologists at Concordia where he helped teach Python, various biology related tools and data visualization. He's been kind enough to offer that to our department as well sometime this fall! In order to figure out/customize what to put in the workshop(s), he's put together this poll to gauge who's interested and what level people are at. [Please fill out the poll here!]( https://docs.google.com/forms/d/e/1FAIpQLSeG3CCq-8MItIFiLgNUQMU6KgT9pzvlFONz5GEvYUde3loZPQ/viewform?c=0&w=1)
@@ -19,10 +19,12 @@ Camille, our lovely W5 key holder is leaving us (~congrats !!~), so we need a ne
   - Aug (1 month) sublet
   
 **4) jamz**
+
 [mitski](https://www.youtube.com/watch?v=u_hDHm9MD0I)
  
  
 LOGAN
+
 BGSA prez
 
 __stay hip:__
