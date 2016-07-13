@@ -20,12 +20,11 @@ Camille, our lovely W5 key holder is leaving us (~congrats !!~), so we need a ne
   
 **4) jamz**
 
-     - [mitski](https://www.youtube.com/watch?v=u_hDHm9MD0I)
+- [mitski](https://www.youtube.com/watch?v=u_hDHm9MD0I)
  
  
 *LOGAN,
-
-     BGSA prez*
+BGSA prez*
 
 __stay hip:__
 
