@@ -8,7 +8,7 @@ categories: event
 ## You're all great
 
 **1) [poll](https://docs.google.com/forms/d/e/1FAIpQLSeG3CCq-8MItIFiLgNUQMU6KgT9pzvlFONz5GEvYUde3loZPQ/viewform?c=0&w=1) for fall seminar: Python for biologists!**
-     Our very own Carlos was part of a programming workshop for biologists at Concordia where he helped teach Python, various biology related tools and data visualization. He's been kind enough to offer that to our department as well sometime this fall! In order to figure out/customize what to put in the workshop(s), he's put together this poll to gauge who's interested and what level people are at. [Please fill out the poll here!]( https://docs.google.com/forms/d/e/1FAIpQLSeG3CCq-8MItIFiLgNUQMU6KgT9pzvlFONz5GEvYUde3loZPQ/viewform?c=0&w=1)
+     Our very own Carlos was part of a programming workshop for biologists at Concordia where he helped teach Python, various biology related tools and data visualization. He's been kind enough to offer that to our department as well sometime this fall! In order to figure out/customize what to put in the workshop(s), he's put together this poll to gauge who's interested and what level people are at. [Please fill out the poll here!](https://docs.google.com/forms/d/e/1FAIpQLSeG3CCq-8MItIFiLgNUQMU6KgT9pzvlFONz5GEvYUde3loZPQ/viewform?c=0&w=1)
 
 
 **2) BGSA Room Keys**
@@ -23,14 +23,14 @@ Camille, our lovely W5 key holder is leaving us (~congrats !!~), so we need a ne
      - [mitski](https://www.youtube.com/watch?v=u_hDHm9MD0I)
  
  
-*LOGAN
+*LOGAN,
 
-BGSA prez*
+     BGSA prez*
 
 __stay hip:__
 
  - Twitter: @McGillBGSA
  - Facebook Group: McGill BGSA
- - Instagram: instagram.com/mcgillbgsa 
- - Website: mcgillbgsa.com
+ - Instagram: [instagram.com/mcgillbgsa](instagram.com/mcgillbgsa)
+ - Website: [mcgillbgsa.com](http://mcgillbgsa.com/)
  - Visit our BGSA Room in SBio N2/5: [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) for more info
