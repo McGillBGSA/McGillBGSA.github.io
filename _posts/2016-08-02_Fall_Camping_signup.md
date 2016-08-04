@@ -7,12 +7,12 @@ categories: event
 
 **1) BGSA fall camping trip sign up!**
 I am happy to announce the 8th annual fall BGSA-run camping trip to welcome new students to the department. Get out your tents, mosquito repellent and favourite fermented drinks for a fun filled weekend to find the outdoorsperson in all of us. This is a great opportunity for both new and returning students to get to know each other outside of the university!
-We will be leaving for Gatineau Park, just outside of Ottawa, on Friday, September 9th and returning on Sunday, September 11th.
+We will be leaving for Gatineau Park, just outside of Ottawa, on **Friday, September 9th** and returning on **Sunday, September 11th**.
 The weekend promises to be a great time and we hope you can make it!  
 It would be great if those of you who went on previous trips would let new students know how much fun you had!
 
 ## A Few Details:
-* 1) The cost should be around 40-60 dollars for car rentals, gas, food, gear, and the site (but NOT including alcohol).
+* 1) The cost should be around 40-60 dollars for car rentals, gas, food, gear, and the site (but __NOT__ including alcohol).
 * 2) This is "car camping" i.e. even if you've never been camping you're more than qualified to come.
 * 3) There is great hiking, caving, swimming, canoe/kayak rentals, fishing, and biking (and bike rentals) in the park :)  
 * 4) We will have a section of the Google doc for gear sharing.
@@ -22,12 +22,10 @@ It would be great if those of you who went on previous trips would let new stude
 * 8) We've had about 30-40 people (~25% of the grad students in Biology) come on each of the last two trips! (It really does provide a great way to meet fellow students)
 * 9) You have until August 19th to let fill out the form to let us know if you're interested in coming, after that, we'll only be sending email updates to people who have expressed interest.
 
-If you're interested please fill out this [FORM](https://docs.google.com/spreadsheets/d/1Z8j3PWw7lzWRpB2UXkFKi31QMAx_N1H-bpgoEUK9Qn4/edit#gid=376407941)
+**If you're interested please fill out this** [FORM](https://docs.google.com/spreadsheets/d/1Z8j3PWw7lzWRpB2UXkFKi31QMAx_N1H-bpgoEUK9Qn4/edit#gid=376407941)
 Your spot will be confirmed only when you have paid a $20 deposit.
 
-Deposits are payable to:
-
-[Nicolas Soubry](nicolas.soubry@mail.mcgill.ca) - Bellini 235
+Deposits are payable to: [Nicolas Soubry](nicolas.soubry@mail.mcgill.ca) - Bellini 235
 * we are looking for more volunteers to collect deposits in stewart & redpath!!
 * __email me if you're willing to help out__
 
