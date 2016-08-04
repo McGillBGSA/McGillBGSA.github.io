@@ -27,7 +27,7 @@ It would be great if those of you who went on previous trips would let new stude
 **If you're interested please fill out this** [FORM](https://docs.google.com/spreadsheets/d/1Z8j3PWw7lzWRpB2UXkFKi31QMAx_N1H-bpgoEUK9Qn4/edit#gid=376407941)
 Your spot will be confirmed only when you have paid a $20 deposit.
 
-Deposits are payable to: [Nicolas Soubry](nicolas.soubry@mail.mcgill.ca) - Bellini 235
+Deposits are payable to: Nicolas Soubry [at nicolas(dot)soubry@mail(dot)mcgill(dot)ca] - Bellini 235
 * we are looking for more volunteers to collect deposits in stewart & redpath!!
 * __email me if you're willing to help out__
 
