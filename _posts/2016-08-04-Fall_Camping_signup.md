@@ -51,9 +51,3 @@ __stay hip:__
  - Website: mcgillbgsa.com
  - Visit our BGSA Room in SBio N2/5: [http://mcgillbgsa.com/bgsaroom/](http://mcgillbgsa.com/bgsaroom/) for more info
  
- 
-MUCH LOVE,
-
-Logan
-
-BGSA president
