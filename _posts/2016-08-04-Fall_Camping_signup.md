@@ -15,6 +15,7 @@ The weekend promises to be a great time and we hope you can make it!
 It would be great if those of you who went on previous trips would let new students know how much fun you had!
 
 **A Few Details:**
+
  - 1) The cost should be around 40-60 dollars for car rentals, gas, food, gear, and the site (but __NOT__ including alcohol).
 
  - 2) This is "car camping" i.e. even if you've never been camping you're more than qualified to come. - 3) There is great hiking, caving, swimming, canoe/kayak rentals, fishing, and biking (and bike rentals) in the park :) 
