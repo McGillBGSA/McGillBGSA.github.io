@@ -4,6 +4,8 @@ date: 2016-08-04
 title: "Sign up for fall camping"
 categories: event
 ---
+## Details of Fall Camping 
+
 
 **1) BGSA fall camping trip sign up!**
 I am happy to announce the 8th annual fall BGSA-run camping trip to welcome new students to the department. Get out your tents, mosquito repellent and favourite fermented drinks for a fun filled weekend to find the outdoorsperson in all of us. This is a great opportunity for both new and returning students to get to know each other outside of the university!
@@ -11,7 +13,7 @@ We will be leaving for Gatineau Park, just outside of Ottawa, on **Friday, Septe
 The weekend promises to be a great time and we hope you can make it!  
 It would be great if those of you who went on previous trips would let new students know how much fun you had!
 
-## A Few Details:
+**A Few Details:**
 * 1) The cost should be around 40-60 dollars for car rentals, gas, food, gear, and the site (but __NOT__ including alcohol).
 * 2) This is "car camping" i.e. even if you've never been camping you're more than qualified to come.
 * 3) There is great hiking, caving, swimming, canoe/kayak rentals, fishing, and biking (and bike rentals) in the park :)  
