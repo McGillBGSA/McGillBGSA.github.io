@@ -24,7 +24,7 @@ Email me if you have any other items you'd like to discuss at the GA
 Thanks for signing up to help out so quick. There are still a few spots if anyone desperately wants to help out
  
 **3) [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0)**
-     3 apartments for September!
+3 apartments for September!
 
 
 LOGAN
