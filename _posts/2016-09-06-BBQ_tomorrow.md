@@ -17,7 +17,7 @@ categories: event
 - FREE FOOD: St bio courtyard
 -  **Wed Sep 7th @ 12:30pm**
 - If you're coming on the camping trip, you can pay your $20 deposit here
-- Don't forget if you've signed up to help!
+- Don't forget if you've [signed up](https://docs.google.com/spreadsheets/d/1tj5uGAvrp4tDnyrVDhlyaIUp0LqtNQKB17PCerhvy6M/edit#gid=0) to help!
 
 **3) [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0)**
      Stay tuned for more!
