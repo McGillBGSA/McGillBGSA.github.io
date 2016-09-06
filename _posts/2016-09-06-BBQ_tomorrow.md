@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2016-09-06
-title: "Tomorrow: BBQ!"
+title: "BBQ to start the year"
 categories: event
 ---
 
-## Orientation BBQ is tomorrow!
+## Join us for the orientation BBQ
 
 **2) GA:** The general assembly is on Tuesday Sep 27th at 5:00 in W4/12
 - We'll be electing two additional councilor positions as well as anyone interesting in being an AGSEM or PGSS rep
