@@ -9,11 +9,14 @@ categories: event
 
 
 **1) General Assembly**
-     - The fall GA is next week! this is a great place to come and find out about what's going on in the department, and have a chance to get involved in some exciting new projects (equity and diversity day! help desk! friendship!)
-     - We will also have elections for 2 first year reps and AGSEM/PGSS reps!
-     - **TIME:** September 27th @ 5:00pm
-     - **PLACE:** W4/12
-     - **FREE FOOD** (probably pizza)
+
+
+The fall GA is next week! this is a great place to come and find out about what's going on in the department, and have a chance to get involved in some exciting new projects (equity and diversity day! help desk! friendship!)
+ 
+We will also have elections for 2 first year reps and AGSEM/PGSS reps!
+ - **TIME:** September 27th @ 5:00pm
+ - **PLACE:** W4/12
+ - **FREE FOOD** (probably pizza)
 
 **2) [BGSAjiji](https://docs.google.com/spreadsheets/d/1s9BcBibvzUni4RXZ90X5_LQtxD_19S6mxys_-VmQ1CM/edit?pli=1#gid=0)**
      Two January apartments!
