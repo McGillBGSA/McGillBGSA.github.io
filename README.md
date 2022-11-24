@@ -1,6 +1,6 @@
 ##Welcome to the McGill BGSA blog source!
 
-If you'd like to add and edit blog posts on <http://mcgillbgsa.com>:
+If you'd like to add and edit blog posts:
 
 1. You must have a Github account.
 2. Contact current BGSA execs to become a collaborator on this repository. 
